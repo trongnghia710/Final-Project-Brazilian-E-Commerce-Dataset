@@ -1,5 +1,5 @@
 # Final-Project-Brazilian-E-Commerce-Dataset
-# Final Project: Brazilian E-Commerce Dataset
+https://drive.google.com/drive/folders/1nwfoZnxOfPebME5adHh-faVi8wSrYm4H?usp=sharing (POWERBI FINAL PROJECT FILE)
 ## 1. Project Overview
 *This project analyzes the Brazilian Olist E-commerce Dataset using Python (ETL) and Power BI to build an interactive dashboard and uncover business insights about sales, payments, customer behaviors, product performance, shipping efficiency, and customer satisfaction.*
 ### Main Goals
